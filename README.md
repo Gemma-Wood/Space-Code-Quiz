@@ -18,7 +18,7 @@ Upon completion, the game displays the score and allows users to save their init
 
 ## Deployed Site
 
-Deployed: https://gemma-wood.github.io/Space-Code-Quiz/
+Deployed site: https://gemma-wood.github.io/Space-Code-Quiz/
 
 ## Screenshots
 
