@@ -26,6 +26,8 @@ Deployed site: https://gemma-wood.github.io/Space-Code-Quiz/
 
 <img width="1339" alt="Screenshot 2024-01-03 at 21 06 17" src="https://github.com/Gemma-Wood/Code-Quiz/assets/150028191/8d9525ff-e106-4e3f-bd92-e5ca25ecac80">
 
+<img width="1225" alt="Screenshot 2024-01-05 at 18 30 16" src="https://github.com/Gemma-Wood/Space-Code-Quiz/assets/150028191/eb9727e8-7704-4209-97a7-91a87a767aac">
+
 ## License
 
 MIT License
